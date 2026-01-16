@@ -395,6 +395,8 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [KasPixel](https://kaspixel.xyz/) | Collaborative pixel art canvas | r/place-inspired, Collaborative art, Pixel drawing, Community creation, Interactive canvas | Proprietary |  |
 | [TX Missile Command](https://tx-missile-command.com/) | Educational blockchain arcade game | Real Kaspa transactions, Arcade gameplay, Transaction visualization, Educational | Proprietary |  |
 | [PPKAS](https://ppkas.space/) | Play-to-earn gaming platform | KRC-20 token, Play-to-earn mechanics, Gaming app, Rewards system | Proprietary |  |
+| [Kasplay.fun](https://kasplay.fun) | Web3 arcade storing game scores directly in Kaspa BlockDAG | Real on-chain transactions, Ultra-fast confirmation, No wallet required, Data layer demo | Proprietary |  |
+
 
 [⬆ Back to Index](#index)
 
