@@ -254,6 +254,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [Spectre Market](https://spectre.market/) | Premier L2 NFT marketplace on Igra Network | L2 NFT trading, Igra integration, Layer 2 speed, Low fees | Proprietary |  |
 | [Kasplex Protocol](https://kasplex.org/) | Open-source KRC-20/721 protocol | Data insertion, Open-source indexer, Public APIs, Token standards (KRC-20/721) | Open Source | [X](https://x.com/Kasplex)<br>[Telegram](https://t.me/kasplex_official) |
 | [KNS](https://app.knsdomains.org/) | Kaspa Name Service for domains | Domain registration, Name resolution, Secure management, Human-readable addresses | Proprietary |  |
+| [INS — Igra Name Service](https://insdomains.org) | Native `.igra` name service on Igra L2 with MetaMask Snap + CCIP-Read across 8+ wallets | Forward + reverse resolution, MetaMask Snap (`npm:ins-snap-resolver`), `.insdomains.eth` CCIP-Read wildcard, REST API, V1+V2 registries, 150+ names | [MIT](https://github.com/ItsGoonBoyCrypto/INSdomains/blob/main/LICENSE) | [X](https://x.com/IgraNameService)<br>[Telegram](https://t.me/IgraNameService) |
 | [Gemlaunch](https://gemlaunch.fun/) | No-code token launchpad | Token creation, Fair launches, No coding, Community launches | Proprietary |  |
 | [KRC-20.org](https://krc-20.org/) | KRC-20 token explorer app | Token exploration, Portfolio tracking, Token analytics, Price data | Proprietary |  |
 
