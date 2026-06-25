@@ -171,7 +171,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [WoolyPooly](https://woolypooly.com/en/coin/kas) | Major multi-coin mining pool | 0.9% fees, High hashrate, Efficient performance, Auto-payouts, Global servers |
 | [KaspaPool](https://kaspa-pool.org/) | Kaspa-optimized mining pool | PPLNS payout system, SOLO mining, Pool statistics, Low latency |
 | [kNodes](https://kaspa-nodes.org/) | Free solo mining platform | 0% fees, Solo mining focus, No registration, Community-driven, Free service |
-| [Kat Pool](https://katpool.xyz/) | Open-source community mining pool | Open-source code, Community-driven, Transparent operations, Fair distribution |
+| [Kat Pool](https://katpool.com/) | Fully open-source Kaspa (KAS) mining pool with NACHO rebates | 0.75% fee (≈0.5% effective; 0% for NACHO/Nacho Kats/KATCLAIM holders), PROP (proportional) payouts, 10 KAS min payout, Global anycast stratum (7 regions), Supports all IceRiver & Bitmain KHeavyHash ASICs, Open-source & auditable |
 | [HeroMiners](https://kaspa.herominers.com/) | Established multi-coin pool | Reliable payouts, Low fees, Global servers, Proven track record |
 | [f2pool](https://www.f2pool.com/) | Major global mining pool | Consistent payouts, Established since 2013, Multi-coin support, Enterprise-grade |
 
