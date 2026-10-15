@@ -265,6 +265,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 
 | Platform | Description | Features | License | Socials |
 |----------|-------------|----------|---------|---------|
+| [IOTA Watch](https://iotahome.site/en/projects/kas) | Open-source Kaspa pool-monitoring dashboard | 2Miners wallet lookup, pool-reported hashrate, workers and payout records, self-hostable | [MIT](https://github.com/molimao/iota/blob/main/LICENSE) |  |
 | [Kaspalytics](https://www.kaspalytics.com/) | On-DAG network analysis platform | Hashrate data, Difficulty metrics, HODL tools, Network statistics, DAG analytics | Proprietary |  |
 | [KaspHub](https://kasphub.com/) | Comprehensive metrics dashboard | Mining calculator, Network analysis, Performance metrics, Real-time data | Proprietary |  |
 | [Kaspa Insights](https://www.kaspainsights.com/) | Network insights and analytics platform | Network insights, Performance metrics, Analytics dashboard, Trend analysis | Proprietary |  |
