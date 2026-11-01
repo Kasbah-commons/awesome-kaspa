@@ -97,6 +97,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [WASM32 SDK](https://kaspa.aspectron.org/docs/index.html) | WebAssembly bindings for JavaScript/TypeScript | Browser/Node.js/Bun compatible, Wallet SDK, RPC API, Transaction generation, MV3 extension support | [ISC](https://github.com/kaspanet/rusty-kaspa/blob/master/LICENSE) | [X](https://x.com/CryptoAspect) |
 | [Kdapp](https://github.com/michaelsutton/kdapp) | High-frequency interactive dApp framework | Rust-based, BlockDAG optimization, Interactive dApps, High-frequency transactions | [ISC](https://github.com/michaelsutton/kdapp/blob/main/LICENSE) | [X](https://x.com/michaelsuttonil) |
 | [Kaspeak SDK](https://github.com/kaspeak/kaspeak-sdk) | SDK for decentralized applications with crypto features | Text/binary data transfer, Custom message types, ECDH/XChaCha20/Schnorr crypto, CBOR/Zstandard compression | [MIT](https://github.com/kaspeak/kaspeak-sdk/blob/main/LICENSE) | [X](https://x.com/KaspeakOfficial)<br>[Telegram](https://t.me/kaspeak_en) |
+| [NKaspa](https://github.com/lifeme2027/NKaspa) | Community .NET/C# library for Kaspa with an NBitcoin-style API (alpha, not audited, unofficial) | NuGet package (0.1.10-alpha), net8.0/netstandard2.1, Bech32 addresses, BIP39/BIP32, Schnorr/ECDSA signing, TransactionBuilder with mass/fee, PSKT, wRPC JSON client | [MIT](https://github.com/lifeme2027/NKaspa/blob/main/LICENSE) |  |
 
 #### APIs & Services
 
@@ -369,6 +370,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [Kaspa.Host](https://kaspa.host/) | Node connectivity tester | P2P-gRPC testing, Accessibility checks, Node diagnostics, Connection testing | Proprietary |  |
 | [Kaspa Network Hashrate](https://hashrate.kaspa.ws/) | Hashrate visualization | Hashrate tracking, Charts/graphs, Network health, Historical data | Proprietary |  |
 | [Kaspa Address Labels](https://labels.kaspa.ws/) | Address labeling tool | Public labels, Address transparency, Wallet identification, Community-driven | Proprietary |  |
+| [KaspaMy](https://github.com/lifeme2027/KaspaMy) | Self-custodial encrypted-file wallet for the command line and AI assistants via MCP, built on NKaspa (alpha, not audited, unofficial) | .NET 8 CLI (`--json` output), stdio MCP server, Encrypted keystore, HD derivation, Testnet-10 default, Mainnet opt-in for MCP, Per-send and daily send caps | [MIT](https://github.com/lifeme2027/KaspaMy/blob/main/LICENSE) |  |
 
 [⬆ Back to Index](#index)
 
