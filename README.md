@@ -81,6 +81,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [KSPR Bot](https://kspr-bot.xyz/) | Telegram-based all-in-one KRC20/KRC721 wallet | Telegram bot, KRC20/KRC721 operations, Batch minting, Built-in marketplace, Mobile access, 5% royalty system | Proprietary |
 | [Atomik Wallet](https://github.com/Atomik-Global/atomik-wallet) | User-friendly cross-platform wallet (work in progress) | Ionic V8 framework, iOS/Android/Web, 10BPS ready, UI/UX focused, Experimental status, Biometric auth | [MIT](https://github.com/Atomik-Global/atomik-wallet/blob/main/LICENSE) |
 | [KasPaper](https://github.com/svarogg/kaspaper) | Lightweight paper wallet generator for cold storage | Go-based generator, Customizable HTML templates, Print-ready output, Offline usage, Paper wallet creation | [GPL-3.0](https://github.com/svarogg/kaspaper/blob/master/LICENSE) |
+| [KasNetWallet](https://github.com/lifeme2027/KasNetWallet) | Windows desktop wallet built on NKaspa (alpha) | .NET 8 WinForms, Windows desktop, Built on NKaspa, Alpha status | [MIT](https://github.com/lifeme2027/KasNetWallet/blob/main/LICENSE) |
 
 [⬆ Back to Index](#index)
 
@@ -97,6 +98,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [WASM32 SDK](https://kaspa.aspectron.org/docs/index.html) | WebAssembly bindings for JavaScript/TypeScript | Browser/Node.js/Bun compatible, Wallet SDK, RPC API, Transaction generation, MV3 extension support | [ISC](https://github.com/kaspanet/rusty-kaspa/blob/master/LICENSE) | [X](https://x.com/CryptoAspect) |
 | [Kdapp](https://github.com/michaelsutton/kdapp) | High-frequency interactive dApp framework | Rust-based, BlockDAG optimization, Interactive dApps, High-frequency transactions | [ISC](https://github.com/michaelsutton/kdapp/blob/main/LICENSE) | [X](https://x.com/michaelsuttonil) |
 | [Kaspeak SDK](https://github.com/kaspeak/kaspeak-sdk) | SDK for decentralized applications with crypto features | Text/binary data transfer, Custom message types, ECDH/XChaCha20/Schnorr crypto, CBOR/Zstandard compression | [MIT](https://github.com/kaspeak/kaspeak-sdk/blob/main/LICENSE) | [X](https://x.com/KaspeakOfficial)<br>[Telegram](https://t.me/kaspeak_en) |
+| [NKaspa](https://github.com/lifeme2027/NKaspa) | C#/.NET SDK for Kaspa (alpha) | BIP39/BIP32, Address encoding, Transaction building/signing, wRPC client (JSON/Borsh), [NuGet](https://www.nuget.org/packages/NKaspa), [Releases](https://github.com/lifeme2027/NKaspa/releases) | [MIT](https://github.com/lifeme2027/NKaspa/blob/main/LICENSE) |  |
 
 #### APIs & Services
 
@@ -369,6 +371,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [Kaspa.Host](https://kaspa.host/) | Node connectivity tester | P2P-gRPC testing, Accessibility checks, Node diagnostics, Connection testing | Proprietary |  |
 | [Kaspa Network Hashrate](https://hashrate.kaspa.ws/) | Hashrate visualization | Hashrate tracking, Charts/graphs, Network health, Historical data | Proprietary |  |
 | [Kaspa Address Labels](https://labels.kaspa.ws/) | Address labeling tool | Public labels, Address transparency, Wallet identification, Community-driven | Proprietary |  |
+| [KaspaMy](https://github.com/lifeme2027/KaspaMy) | CLI wallet and MCP server for Kaspa, built on NKaspa (alpha, unaudited) | C# CLI, MCP server for AI agents, Testnet default, Spend caps, Recovery phrase never returned to the model | [MIT](https://github.com/lifeme2027/KaspaMy/blob/main/LICENSE) |  |
 
 [⬆ Back to Index](#index)
 
