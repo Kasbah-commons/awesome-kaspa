@@ -345,6 +345,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [Kasbun](https://www.kasbun.com/) | Kaspa insights blog | Blog posts, Insights, Analysis, Commentary |  |
 | [Kaspa FAQ](https://www.kaspafaq.com/) | Comprehensive FAQ resource | Wallets, Exchanges, Tokens, Beginner guides, Detailed answers |  |
 | [Kaspa Flow](https://kaspaflow.com/) | Brazilian Kaspa community | Portuguese community, Events, Education, BR-focused |  |
+| [Geek Protocol](https://geekprotocol.xyz/) | Free browser-based Kaspa learning and trivia platform (alpha) | Kaspa quizzes, Practice, Daily Challenge, Public leaderboards; internal alpha credits only, token payouts not live | [X](https://x.com/geekonkas)<br>[Telegram](https://t.me/GEEKonKAScommunity) |
 
 [⬆ Back to Index](#index)
 
