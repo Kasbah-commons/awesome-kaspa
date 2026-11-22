@@ -97,6 +97,7 @@ A curated list of awesome Kaspa resources, tools, and projects.
 | [WASM32 SDK](https://kaspa.aspectron.org/docs/index.html) | WebAssembly bindings for JavaScript/TypeScript | Browser/Node.js/Bun compatible, Wallet SDK, RPC API, Transaction generation, MV3 extension support | [ISC](https://github.com/kaspanet/rusty-kaspa/blob/master/LICENSE) | [X](https://x.com/CryptoAspect) |
 | [Kdapp](https://github.com/michaelsutton/kdapp) | High-frequency interactive dApp framework | Rust-based, BlockDAG optimization, Interactive dApps, High-frequency transactions | [ISC](https://github.com/michaelsutton/kdapp/blob/main/LICENSE) | [X](https://x.com/michaelsuttonil) |
 | [Kaspeak SDK](https://github.com/kaspeak/kaspeak-sdk) | SDK for decentralized applications with crypto features | Text/binary data transfer, Custom message types, ECDH/XChaCha20/Schnorr crypto, CBOR/Zstandard compression | [MIT](https://github.com/kaspeak/kaspeak-sdk/blob/main/LICENSE) | [X](https://x.com/KaspeakOfficial)<br>[Telegram](https://t.me/kaspeak_en) |
+| [HardKAS](https://github.com/KasLabDevs/HardKas) | Local-first development framework for Kaspa L1: CLI, TypeScript SDK and IDE | Managed rusty-kaspa simnet in Docker, SilverScript compile/deploy/spend, 1:1 Toccata covenants, verifiable transaction artifacts, Testnet-10 opt-in (experimental), mainnet blocked | [MIT](https://github.com/KasLabDevs/HardKas/blob/main/LICENSE) | [X](https://x.com/HardKASOfficial)<br>[Discord](https://discord.gg/bFCVymNHnu) |
 
 #### APIs & Services
 
